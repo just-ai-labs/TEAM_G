@@ -23,7 +23,8 @@ Welcome to Team G's official repository! This repository contains all the work a
   - **Overall Work Documentation**: [Complete Documentation](https://docs.google.com/document/d/1SNTEiY_qPfMQRCPJfeDsyRmmsDsxmgs1bC5QbgW1BeE/edit?usp=sharing)  
   - Email: sachinba.20@gmail.com  
   - GitHub: [Sachin B A](https://github.com/Sachin-B-A)  
-  - LinkedIn: [Sachin B A](https://www.linkedin.com/in/b-a-sachin/)  
+  - LinkedIn: [Sachin B A](https://www.linkedin.com/in/b-a-sachin/)
+  - Deployment Link: [ALFERD](https://sparkly-kelpie-56b5aa.netlify.app/)
 
 - **Chandan B S**  
   *[Frontend Developer | UI/UX Designer]*  
