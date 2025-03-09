@@ -27,13 +27,29 @@ Welcome to Team G's official repository! This repository contains all the work a
   - Deployment Link: [ALFERD](https://sparkly-kelpie-56b5aa.netlify.app/)
 
 - **Chandan B S**  
-  *[Frontend Developer | UI/UX Designer]*  
-  - Designed and implemented a responsive and intuitive user interface.  
-  - Integrated APIs with the frontend and ensured seamless user experiences across different devices.  
-  - Contributed creative solutions for better interactivity and engagement.  
-  - Email: [Add Email]  
-  - GitHub: [Add GitHub Profile]  
-  - LinkedIn: [Add LinkedIn Profile]  
+*[Full Stack Developement | AI & Web Integration]*  
+
+**Slite Meeting Notes Agent**  
+- Developed the **backend API** using **FastAPI and WebSockets**, enabling real-time meeting note automation.  
+- Integrated the API with a **frontend chatbot**, allowing seamless interaction and retrieval of meeting notes.  
+- Automated the process of **creating, storing, and managing meeting notes** within Slite for enhanced collaboration.  
+
+**GraphQL-Mechanism UI**  
+- Designed and implemented a **Streamlit-based frontend** connected to a **GraphQL API** for efficient project data management.   
+
+**Microservices Architecture**  
+- Led the **backend integration** using a **microservices-based approach** for scalable and efficient project.  
+  
+Key Code Contributions:  
+    1. [Slite-Meeting-Notes-Agent Integration](https://github.com/just-ai-labs/Slite-MeetingNotes-Agent)  
+    2. [GraphQL Mechanism](https://github.com/just-ai-labs/GraphQL_Mechanism)  
+    3. [Microservices-Architecture-Documentation](https://docs.google.com/document/d/1abZ0MYZIX0-zBRfXpb5P7Rvlpwgv4TbwWyrbJat8-DA/edit?usp=sharing)  
+     
+  - **Overall Work Documentation**: [Complete Documentation](https://docs.google.com/document/d/1PvUMNoObEJvdaaUCGo3Xui-_Xu917NnG5hrOI_xomyk/edit?usp=sharing)  
+  - Email: chandan0417bs@gmail.com 
+  - GitHub: [Chandan B S](https://github.com/chandan0417)  
+   
+
 
 - **Bhavana Naik**  
   *[Data Analyst | QA Engineer]*  
