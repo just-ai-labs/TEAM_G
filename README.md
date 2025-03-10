@@ -56,7 +56,7 @@ Key Code Contributions:
   - **Testing Interface:** Development of Streamlit testing interface for Team D and Team E.
   - **Slack Integration:** with the Interface with the Help of Slack API.
   - **Cross - Team Collabaration:** and Design Insights for UI/UX.
-  **Overall Work Documentation**: [Complete Documentation]( - **Overall Work Documentation**: [Complete Documentation](https://docs.google.com/document/d/1SNTEiY_qPfMQRCPJfeDsyRmmsDsxmgs1bC5QbgW1BeE/edit?usp=sharing)    
+  **Overall Work Documentation**:[Complete Documentation](https://docs.google.com/document/d/1m75G-Gz0mDxOMNKAN1q7XRIgyaJAvhz4tHzdepX2o60/edit?tab=t.0#heading=h.djf7xr82b7vx)    
   - Email: [Gmail]  
   - GitHub: [Github]    
 
