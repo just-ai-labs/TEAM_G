@@ -1,6 +1,6 @@
 # Team G - Internship Project Repository
 
-Welcome to Team G's official repository! This repository contains all the work and projects completed by Team G during our internship. Team G was part of the Interface Development team led by [Sachin B A](https://github.com/Sachin-B-A) , primarily responsible for developing the main interface for the PMAI Project for StableCoupons, creating a testing interface for agent testing, and deploying the end product with continuous collaboration with the UI/UX team.
+Welcome to Team G's official repository! This repository contains all the work and projects completed by Team G during our internship. Team G was part of the Interface Development team led by [Sachin B A](https://github.com/Sachin-B-A) ,Team was primarily responsible for developing the main interface for the PMAI Project for StableCoupons, creating a testing interface for agent testing, and deploying the end product with continuous collaboration with the UI/UX team.
 
 ## Team Members
 - **Sachin B A**  
