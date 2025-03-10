@@ -91,7 +91,7 @@ Key Code Contributions:
     npm run dev
     ```
 
-## Folder Structure
+## Folder Structure - Main Interface
 ```
 project-folder/
 |-- src/
