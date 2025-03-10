@@ -51,7 +51,7 @@ Key Code Contributions:
    
 
 
-- **Bhavana Naik**  
+**Bhavana Naik**  
   *[Front End Development/ Full Stack Development]*  
   - **Testing Interface:** Development of Streamlit testing interface for Team D and Team E.
   - **Slack Integration:** with the Interface with the Help of Slack API.
