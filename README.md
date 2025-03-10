@@ -57,8 +57,7 @@ Key Code Contributions:
   - **Slack Integration:** with the Interface with the Help of Slack API.
   - **Cross - Team Collabaration:** and Design Insights for UI/UX.
   - **Overall Work Documentation**:[Complete Documentation](https://docs.google.com/document/d/1m75G-Gz0mDxOMNKAN1q7XRIgyaJAvhz4tHzdepX2o60/edit?tab=t.0#heading=h.djf7xr82b7vx)    
-  - Email: [Gmail]  
-  - GitHub: [Github]    
+  - Email: bhavananaik@gmail.com.    
 
 ## Technology Stack
 - **Frontend:** React.js, Tailwind CSS , Typescript.
