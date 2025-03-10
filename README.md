@@ -53,42 +53,30 @@ Key Code Contributions:
 
 - **Bhavana Naik**  
   *[Front End Development/ Full Stack Development]*  
-  - Worked on data analysis, quality assurance, and documentation.  
-  - Ensured code quality through rigorous testing and maintained well-structured documentation for project deliverables.  
-  - Provided key insights through data-driven reports and analysis.  
-  - Email: [Add Email]  
-  - GitHub: [Add GitHub Profile]  
-  - LinkedIn: [Add LinkedIn Profile]  
-
-## Project Overview
-This repository serves as a comprehensive collection of our work, including:
-- Complete and well-documented source code
-- Configuration files and environment setup instructions
-- Technical reports and analysis
-- Test cases and quality assurance results
-- Deployment scripts and guidelines
-
-### Key Features
-- **Full-Stack Implementation:** Seamless integration between backend APIs and a dynamic frontend interface.
-- **Scalable Architecture:** Modular and scalable project structure ensuring future enhancements and maintenance.
-- **Data-Driven Insights:** Analytical reports and performance metrics for effective decision-making.
-- **Robust Testing:** Comprehensive test coverage ensuring code reliability and stability.
+  - **Testing Interface:** Development of Streamlit testing interface for Team D and Team E.
+  - **Slack Integration:** with the Interface with the Help of Slack API.
+  - **Cross - Team Collabaration:** and Design Insights for UI/UX.
+  **Overall Work Documentation**: [Complete Documentation]( - **Overall Work Documentation**: [Complete Documentation](https://docs.google.com/document/d/1SNTEiY_qPfMQRCPJfeDsyRmmsDsxmgs1bC5QbgW1BeE/edit?usp=sharing)    
+  - Email: [Gmail]  
+  - GitHub: [Github]    
 
 ## Technology Stack
-- **Frontend:** React.js, Redux, Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB
-- **Version Control:** Git, GitHub
-- **Deployment:** Vercel, Heroku
-- **Testing:** Jest, Postman
+- **Frontend:** React.js, Tailwind CSS , Typescript.
+- **Backend:** Node.js, Express.js.
+- **Version Control:** Git, GitHub.
+- **Deployment:** Vercel , Netlify.
+- **Testing:** Streamlit , postman.
+- **Design:** Figma.
+- **Agent:** Python.
 
 ## Setup and Installation
 1. Clone the repository:
     ```bash
-    git clone <repo-url>
+    git clone <https://github.com/just-ai-labs/TEAM_G.git>
     ```
 2. Navigate to the project directory:
     ```bash
-    cd project-folder
+    cd TEAM_G
     ```
 3. Install dependencies:
     ```bash
@@ -96,11 +84,11 @@ This repository serves as a comprehensive collection of our work, including:
     ```
 4. Configure environment variables:
     ```bash
-    cp .env.example .env
+    cd .env.local
     ```
 5. Run the project:
     ```bash
-    npm start
+    npm run dev
     ```
 
 ## Folder Structure
@@ -126,18 +114,12 @@ project-folder/
 3. **Push to your branch** and create a pull request.
 4. **Review and merge** changes after team approval.
 
-## Achievements and Milestones
-- Successfully deployed a production-ready application.
-- Achieved 95% test coverage with robust unit and integration tests.
-- Implemented real-time data synchronization and optimized performance.
-- Collaborated efficiently using Agile methodology.
+
 
 ## Contact
 For any queries, suggestions, or collaborations, feel free to reach out:
 - Sachin B A: sachinba.20@gmail.com  
-- Chandan B S: [Add Email]  
-- Bhavana Naik: [Add Email]  
+- Chandan B S: chandan0417bs@gmail.com
+- Bhavana Naik: bhavananaik@gmail.com
 
----
-*Thank you for visiting Team G's repository! We hope our work inspires and adds value.*
 
