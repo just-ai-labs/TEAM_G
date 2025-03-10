@@ -52,7 +52,7 @@ Key Code Contributions:
 
 
 - **Bhavana Naik**  
-  *[Data Analyst | QA Engineer]*  
+  *[Front End Development/ Full Stack Development]*  
   - Worked on data analysis, quality assurance, and documentation.  
   - Ensured code quality through rigorous testing and maintained well-structured documentation for project deliverables.  
   - Provided key insights through data-driven reports and analysis.  
